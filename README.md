@@ -2,7 +2,4 @@
 
 Technologies: Python, OpenCV, Dlib.
 
-python
-Copy
-Edit
 
